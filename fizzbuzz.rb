@@ -7,7 +7,7 @@ def fizzbuzz(int)
 
   else
     "FizzBuzz"
-    
+
   end
 
 end

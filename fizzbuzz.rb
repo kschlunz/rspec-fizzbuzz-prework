@@ -3,5 +3,5 @@ def fizzbuzz(int)
     "Fizz"
 
   end 
-    
+
 end
